@@ -1,5 +1,5 @@
 # OwieWatcher
-[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/tonyt321/OWIE-OLED)
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](esp32-base)
 
 todo
 - get gitpod working idk how to save from gitpod to here 
